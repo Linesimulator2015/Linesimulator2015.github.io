@@ -294,6 +294,50 @@ border-radius: 0px;
   background-color: #fff;
   color: #E80505;
 }
+#white1 {
+  border-width: 2px;
+  border-color: #fff;
+  text-decoration: none;
+  color: #fff;
+}
+#white1 a:hover{
+  border-color: #fff;
+  background-color: #76CC1E;
+  color: none;
+}
+#white2 {
+  border-width: 2px;
+  border-color: #fff;
+  text-decoration: none;
+  color: #fff;
+}
+#white2 a:hover{
+  border-color: #fff;
+  background-color: #76CC1E;
+  color: none;
+}
+#white3 {
+  border-width: 2px;
+  border-color: #fff;
+  text-decoration: none;
+  color: #fff;
+}
+#white3 a:hover{
+  border-color: #fff;
+  background-color: #76CC1E;
+  color: none;
+}
+#white4 {
+  border-width: 2px;
+  border-color: #fff;
+  text-decoration: none;
+  color: #fff;
+}
+#white4 a:hover{
+  border-color: #fff;
+  background-color: #76CC1E;
+  color: none;
+}
 /* Responsive */
 
 @media (max-width: 768px) {
